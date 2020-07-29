@@ -1,0 +1,36 @@
+body{
+       margin:0;
+       font-family: sans-serif;
+       background-color: ivory;
+}
+
+#page-heading{
+    text-align: center;
+    margin-top: 25px;
+    color: red;
+}
+
+input{
+    border:1px solid black;
+}
+
+button{
+    background-color:lightcyan;
+    border:1px solid black;
+}
+
+button i{
+    padding: 2px;
+    margin-right: 5px;
+}
+
+#contact-list{
+    border: 1px solid black;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#contact-form{
+    text-align: center;
+    margin-top:2%;
+}
